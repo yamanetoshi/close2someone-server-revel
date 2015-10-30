@@ -50,6 +50,7 @@ below
 $ cd $GOPATH/src/github
 $ mkdir yamanetoshi && cd yamanetoshi
 $ git clone https://github.com/yamanetoshi/close2someone
+```
 
 ### run this project
 
